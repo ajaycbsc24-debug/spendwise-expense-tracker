@@ -384,3 +384,29 @@ textarea {
     padding: 25px 15px;
   }
 }
+.monthly-summary {
+  margin: 30px 0;
+  padding: 24px;
+  border-radius: 16px;
+  background: white;
+  border: 1px solid #e5e7eb;
+}
+
+.monthly-summary small {
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
+.monthly-summary h2 {
+  margin: 8px 0;
+}
+
+.monthly-summary p {
+  margin: 0 0 8px;
+  color: #6b7280;
+}
+
+.monthly-summary h1 {
+  margin: 0;
+  font-size: 32px;
+}
